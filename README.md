@@ -1,4 +1,9 @@
-# easy-start
+# Easy-start
+## update distr
 ```
-sudo pacman -S htop curl git gcc
+sudo pacman -Syu
+```
+## First soft
+```
+sudo pacman -S htop curl git gcc zsh
 ```
